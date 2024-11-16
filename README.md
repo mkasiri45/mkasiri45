@@ -11,4 +11,25 @@
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkasiri45&show_icons=true&theme=radical)
 
+## 🗣️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasiri45&layout=compact&theme=radical)
+
+
+## 🔥 GitHub Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mkasiri45&theme=radical)
+
+
+## 🏆 Profile Trophy
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mkasiri45&theme=radical)
+
+
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/mkasiri45/count.svg)
+
+
+## ⏱️ Wakatime Stats
+![Wakatime Stats](https://wakatime.com/badge/user/mkasiri45.svg)
+
+
+
 📫 Let's connect: [mkasiri45@gmail.com]
